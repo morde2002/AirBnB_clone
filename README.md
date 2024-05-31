@@ -217,12 +217,3 @@ Run all test:
 $ python3 unittest -m discover tests
 ```
 
-Run a specific single test:
-```
-$ python3 unittest -m tests/test_console.py
-```
-
-## Authors :black_nib:
-* Edward Alex - @edwardalex
-* Phoebe Mwende - @Phoebe25
-
